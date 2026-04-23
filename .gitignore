@@ -1,0 +1,39 @@
+# MacOS
+.DS_Store
+
+# Android / Gradle
+*.apk
+*.aab
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+.gradle/
+build/
+local.properties
+proguard/
+*.log
+*.iml
+.idea/
+.cxx/
+captures/
+.externalNativeBuild/
+.dir_local/
+
+# Python Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
