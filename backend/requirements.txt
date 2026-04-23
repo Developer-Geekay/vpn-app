@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-jose[cryptography]
+passlib[攜]
+python-multipart
+pydantic
+pydantic-settings
